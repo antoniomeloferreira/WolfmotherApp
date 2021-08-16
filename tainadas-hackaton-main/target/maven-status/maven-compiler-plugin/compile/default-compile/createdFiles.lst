@@ -1,0 +1,11 @@
+org/academiadecodigo/shellmurais/wolfmother/controllers/user/UserController.class
+org/academiadecodigo/shellmurais/wolfmother/services/CreateProfileService.class
+org/academiadecodigo/shellmurais/wolfmother/model/Group.class
+org/academiadecodigo/shellmurais/wolfmother/services/LogInService.class
+org/academiadecodigo/shellmurais/wolfmother/controllers/groupcontroller/GroupController.class
+org/academiadecodigo/shellmurais/wolfmother/controllers/MatchMaker.class
+org/academiadecodigo/shellmurais/wolfmother/controllers/MainController.class
+org/academiadecodigo/shellmurais/wolfmother/model/Person.class
+org/academiadecodigo/shellmurais/wolfmother/services/CreateGroupService.class
+org/academiadecodigo/shellmurais/wolfmother/controllers/authentication/AuthenticationController.class
+org/academiadecodigo/shellmurais/wolfmother/model/Interests.class
